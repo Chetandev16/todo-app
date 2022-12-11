@@ -1,4 +1,4 @@
 # Simple Todo app using react js
 
-# live link :- 
+# live link :- https://todoappchetan.netlify.app/
 
